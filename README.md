@@ -1,6 +1,6 @@
 # Hydride-ion
 QUANTUM COMPUTATION OF HYDRIDE ION USING VARIATIONAL QUANTUM ALGORITHM
-Because of remarkable reactivity and strong electron-electron
+= Because of remarkable reactivity and strong electron-electron
 correlation effects, the precise prediction and comprehen-
 sion of molecular energy and chemical reactivity of hydride
 ion is an essential objective in quantum chemistry. Lever-
